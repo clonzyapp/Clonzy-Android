@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clonzy</string>
+    <string name="api_base_url">https://api.your-clonzy-backend.com/</string>
+    <string name="copyright">© Shaun Garn 2025 — All Rights Reserved</string>
+</resources>
