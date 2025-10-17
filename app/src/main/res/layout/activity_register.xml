@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:padding="24dp" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#070b12">
-    <TextView android:text="Create your Clonzy account" android:textColor="#00e5ff" android:textSize="20sp"/>
-    <EditText android:id="@+id/input_email" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="you@example.com" android:inputType="textEmailAddress" android:layout_marginTop="12dp" android:padding="12dp" android:background="#0a0f1a" android:textColor="#e9f3ff" android:hintTextColor="#6da8d8"/>
-    <EditText android:id="@+id/input_handle" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="handle (public)" android:layout_marginTop="12dp" android:padding="12dp" android:background="#0a0f1a" android:textColor="#e9f3ff" android:hintTextColor="#6da8d8"/>
-    <Button android:id="@+id/btn_register" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register" android:layout_marginTop="12dp" android:backgroundTint="#00c8ff" android:textColor="#001018"/>
-    <TextView android:text="© Shaun Garn 2025 — All Rights Reserved" android:textColor="#9fdfff" android:textSize="12sp" android:layout_marginTop="24dp" android:layout_gravity="center"/>
-</LinearLayout>
